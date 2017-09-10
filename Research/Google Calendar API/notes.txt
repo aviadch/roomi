@@ -1,0 +1,4 @@
+client id
+19490890712-jc3vq1bbikle9vds8j24ghbunct738t1.apps.googleusercontent.com
+client secret
+Lnjpqd3MTXHZPIPUc3Tgf_XS
